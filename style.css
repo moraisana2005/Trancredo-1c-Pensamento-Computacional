@@ -3,6 +3,15 @@ body {
     background: #bfd3c1;
 }
 #slogan{
+  
     font-size: 25px;
 }
+.capa{ 
+   width: 80%; 
 
+}
+.conteudo{
+    background: rgb(104, 135, 147);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(37, 35, 63, 0.906);
+}
