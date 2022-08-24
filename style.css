@@ -1,6 +1,7 @@
 body {
     text-align: center;
     background: #bfd3c1;
+    color: rgb(33, 135, 225);
 }
 #slogan{
   
@@ -11,7 +12,7 @@ body {
 
 }
 .conteudo{
-    background: rgb(104, 135, 147);
+    background: rgb(215, 218, 220);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgba(37, 35, 63, 0.906);
 }
